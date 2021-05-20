@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: DIY du quotidien
+    title: DIY pour le quotidien
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
